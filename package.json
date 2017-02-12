@@ -1,0 +1,27 @@
+{
+    "name": "INFERNO",
+    "version": "0.0.1",
+    "description": "Inicio rápido package.json",
+    "keywords": [],
+    "author": "ilgaleanos",
+    "license": "MIT",
+    "dependencies": {
+        "mobx": "latest",
+        "inferno-mobx": "latest",
+        "inferno-router": "latest",
+        "qs": "latest"
+    },
+    "devDependencies": {
+        "babel-cli": "latest",
+        "babel-plugin-inferno": "latest",
+        "babel-plugin-transform-decorators-legacy": "latest",
+        "babel-preset-es2015": "latest",
+        "babel-preset-stage-0": "latest",
+        "babelify": "latest",
+        "browserify": "latest",
+        "grunt-browserify": "latest",
+        "grunt-cli": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt": "^1.0.1",
+    }
+}
