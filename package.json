@@ -22,6 +22,6 @@
         "grunt-browserify": "latest",
         "grunt-cli": "latest",
         "grunt-contrib-watch": "latest",
-        "grunt": "^1.0.1",
+        "grunt": "^1.0.1"
     }
 }
